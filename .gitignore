@@ -1,0 +1,6 @@
+target/*
+.idea/*
+elasticsearch.iml
+**/.DS_store
+.DS_Store
+logs/*
